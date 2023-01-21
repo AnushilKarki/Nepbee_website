@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 const Teams = () => {
     const teamMemberList = [
-        {name:'person1.svg', title:'Laxman Acharya,',description:'Content Writer'},
+        {name:'person1.svg', title:'Laxman Acharya,',description:'Full Stack Developer'},
         {name:'person2.svg', title:'Anushil Karki,',description:'Backend Developer'},
         {name:'person3.svg', title:'Anish Rai,',description:'Data Analyst'},
         {name:'person2.svg', title:'Nishan Bhattarai,',description:'Frontend Developer'},

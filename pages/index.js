@@ -6,7 +6,7 @@ import Hero from '../components/Hero'
 import Services from '../components/Services'
 import Portfolio from '../components/Portfolio'
 import Teams from '../components/Teams'
-import Pricing from '../components/Pricing'
+// import Pricing from '../components/Pricing'
 
 
 export default function Home() {
@@ -24,7 +24,7 @@ export default function Home() {
         <Services />
         <Portfolio />
         <Teams />
-        <Pricing />
+        {/* <Pricing /> */}
       </main>
     </>
   )
